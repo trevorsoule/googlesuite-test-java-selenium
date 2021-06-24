@@ -8,11 +8,6 @@ Navigates to Google, searches for "Ducks" and validates the web search results
     Selenium
     TestNG 
 
-## Running the tests
-Run every test
-
-`mvn clean install`
-
 ## Setup
 Mac setup instructions
 ```
